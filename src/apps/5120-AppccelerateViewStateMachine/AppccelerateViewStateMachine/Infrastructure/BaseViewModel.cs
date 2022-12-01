@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Diagnostics;
 
-namespace AppccelerateStateMachine
+namespace AppccelerateViewStateMachine.Infrastructure
 {
     public abstract class BaseViewModel : INotifyPropertyChanged
     {

@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using AppccelerateViewStateMachine.Infrastructure;
 using static AppccelerateStateMachine.Extensions.EventRaiser;
 
 namespace AppccelerateStateMachine

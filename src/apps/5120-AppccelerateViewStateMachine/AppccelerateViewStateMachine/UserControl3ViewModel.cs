@@ -1,4 +1,5 @@
 ﻿using AppccelerateStateMachine.Infrastructure;
+using AppccelerateViewStateMachine.Infrastructure;
 using System.Windows.Input;
 
 namespace AppccelerateStateMachine
